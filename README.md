@@ -9,7 +9,7 @@ This repository contains a collection of mini Java projects built during my seco
 1️⃣ Sorting Visualizer
 *A command-line simulation of the Bubble Sort algorithm to understand step-by-step sorting mechanics.
 
-*Concepts Covered:
+~Concepts Covered:
 
 *Bubble Sort logic
 
@@ -41,7 +41,7 @@ This repository contains a collection of mini Java projects built during my seco
 3️⃣ Sudoku Solver
 *A classic backtracking problem where a 9x9 Sudoku board is solved using recursion and constraint-checking.
 
-*Concepts Covered:
+~Concepts Covered:
 
 *Backtracking strategy
 
@@ -55,7 +55,7 @@ This repository contains a collection of mini Java projects built during my seco
 🔹 N-Queens Solver
 *Solves the N-Queens problem using a recursive board placement strategy ensuring no queens threaten each other.
 
-*Concepts Covered:
+~Concepts Covered:
 
 *Backtracking template design
 
